@@ -1,0 +1,4 @@
+.primaryNav {
+  display: flex;
+  flex-direction: row;
+}
